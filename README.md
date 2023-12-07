@@ -149,7 +149,7 @@ It is strongly encouraged to upload your poster in the registration link below (
 <!-- The poster will be asked to upload in the above registration. The deadline is April 1st. -->
 
 ### Travel Support
-Travel support is available for junior participants (who received PhD degree after 2018), invited speakers and panel discussants. Registration fee will be reimbursed for participants that receive travel support. 
+Only students submitting a poster is qualified for applying for travel support and free of registration. 
 
 ### Registration (Deadline **April 1st, 2023**).
 [**CLICK HERE**](https://docs.google.com/forms/d/e/1FAIpQLSewDipcynt5OlyOxwNsLOjdwf2S5qyxWzjABxkEq3dnQyAntw/viewform?usp=pp_url) to register for the April 13th - 14th, 2023 UCLA synthetic data workshop. <br> [**CLICK HERE**](https://commerce.cashnet.com/41015CONF) to pay the registration fee.
@@ -180,11 +180,8 @@ If you need accommodation, nearby options include the following local hotels.
 
 ### Organizers
 - [Guang Cheng, UCLA Statistics](http://www.stat.ucla.edu/~guangcheng/) (Chair)
-- [Xiaowu Dai, UCLA Statistics](https://www.xiaowudai.org/)
-- [Mark Mckenna, UCLA School of Law](https://law.ucla.edu/faculty/faculty-profiles/mark-mckenna)
-- [Jerry Reiter, Duke Statistics](https://www2.stat.duke.edu/~jerry/)
-- [Ying Nian Wu, UCLA Statistics](http://www.stat.ucla.edu/~ywu/)
-- [Hongquan Xu, UCLA Statistics](http://www.stat.ucla.edu/~hqxu/)
+- [Qing Zhou, UCLA Statistics](http://www.stat.ucla.edu/~zhou/)
+- [Namjoon Suh, UCLA Statistics](https://sites.google.com/site/namjoonsuh)
 
 ### Contact
 
