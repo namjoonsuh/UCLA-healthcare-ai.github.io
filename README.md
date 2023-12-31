@@ -31,8 +31,8 @@ All events will be held at [UCLA Luskin hotel Conference Hotel](https://luskinco
 - 8-8:50 Register
 - 8:50-9 Opening Remark 
 - 9-9:45 Keynote Talk by TBD
-- 9:45-10 Coffee/Tea
-- 10-11:30 Invited Session 1:  TBD <br>
+- 9:45-10:15 Coffee/Tea
+- 10:15-11:45 Invited Session 1:  TBD <br>
   Session Chair: TBD
   - Title: TBD <br>
     Speaker: TBD <br>
@@ -43,7 +43,7 @@ All events will be held at [UCLA Luskin hotel Conference Hotel](https://luskinco
   - Title: TBD <br>
     Speaker: TBD <br>
     Slides: TBD
-- 11:30-12:30 Lunch
+- 11:45-12:30 Lunch
 - 12:30-13:30 Poster/Coffee/Tea
 - 13:30-14:15 Keynote Talk by TBD <br> 
               Title: TBD <br>
