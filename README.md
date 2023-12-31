@@ -40,9 +40,9 @@ Therefore, this workshop is to form a community of synthetic data researchers (f
 -->
 
 ### Program
-All events will be held at [UCLA faculty club](https://facultyclub.ucla.edu/), Morrison Room.
+All events will be held at [UCLA Luskin hotel Conference Hotel](https://luskinconferencecenter.ucla.edu/hotels-near-ucla/), Conference Room ?.
 
-#### Day 1: April 13, Thursday
+#### April 5th or 12th, Friday
 - 8-8:50 Breakfast & Register
 - 8:50-9 Opening Remark <!--[Advertise M5 positions]-->
 - 9-9:40 Keynote Talk by [Xiao-Li Meng, Harvard Statistics](https://statistics.fas.harvard.edu/people/xiao-li-meng) <br> 
@@ -113,7 +113,7 @@ All events will be held at [UCLA faculty club](https://facultyclub.ucla.edu/), M
 - [Kalyan Veeramachaneni, MIT LIDS](https://kalyan.lids.mit.edu/), [DataCebo](https://datacebo.com/)
 - [Roman Vershynin, UCI Mathematics](https://www.math.uci.edu/~rvershyn/)
 
-##### Panelists: 
+##### Panelists [placeholder]: 
 - [Nikita Aggarwal, UCLA School of Law](https://law.ucla.edu/faculty/faculty-profiles/nikita-aggarwal)
 - [Ali Golshan](https://www.linkedin.com/in/ali-golshan), [Gretel.ai](https://gretel.ai/)
 - [Tobias Hann](https://www.linkedin.com/in/tobiashann/), [MOSTLY AI](https://mostly.ai/)
