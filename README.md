@@ -47,34 +47,35 @@ All events will be held at [UCLA Luskin hotel Conference Hotel](https://luskinco
 - 8:50-9 Opening Remark 
 - 9-9:45 Keynote Talk by TBD
 - 9:45-10 Poster/Coffee/Tea
-- 10-11:30 Invited Session 1:  Synthetic Data for Social Science <br>
+- 10-11:30 Invited Session 1:  TBD <br>
   Session Chair: TBD
   - Title: TBD <br>
     Speaker: TBD <br>
     Slides: TBD
   - Title: TBD <br>
-    Speaker: [Joshua Snoke, RAND](https://www.rand.org/about/people/s/snoke_joshua.html)
-  - Title: [Synthesizing Tax Data with Tidy-synthesis](https://sites.google.com/g.ucla.edu/talkinfo/sdss_3) <br>
-    Speaker: [Aaron Williams, Urban Institute](https://www.urban.org/author/aaron-r-williams) <br>
-    Slides: [**CLICK HERE**](https://docs.google.com/presentation/d/1SwYCXpAJOxytUSvcASicb0cOGAcG0byo/edit?usp=share_link&ouid=103067129731213045097&rtpof=true&sd=true)
+    Speaker: TBD
+    Slides: TBD
+  - Title: TBD <br>
+    Speaker: TBD <br>
+    Slides: TBD
 - 11:30-12:30 Lunch
 - 12:30-13:30 Poster/Coffee/Tea
-- 13:30-14:15 Keynote Talk by [Aloni Cohen, UChicago Computer Science](https://cs.uchicago.edu/people/aloni-cohen/) <br> 
-              Title: [Deidentification and Data Deletion --- A Cryptographer's Take](https://sites.google.com/g.ucla.edu/talkinfo/kn_2) <br>
-              Chair: [Mark Mckenna, UCLA School of Law](https://law.ucla.edu/faculty/faculty-profiles/mark-mckenna)
+- 13:30-14:15 Keynote Talk by TBD <br> 
+              Title: TBD <br>
+              Chair: TBD
 - 14:15-15:00 Poster/Coffee/Tea
-- 15:00-17:00 Invited Session 2: Trustworthiness of Synthetic Data <br>
-  Session Chair: [Shirong Xu, UCLA Statistics](https://sites.google.com/view/shirongs-homepage/main?authuser=0) <br>
-  - Title: [Differentially Private Synthetic Data Can Be Accessible and Equitable](https://sites.google.com/g.ucla.edu/talkinfo/tsd_1) <br>
-    Speaker: [Lucas Rosenblatt, NYU Center for Responsible AI](https://www.lucasrosenblatt.com/)
-  - Title: [Generative AI in Healthcare: Synthetic Patient Records and Clinical Trial Optimization](https://sites.google.com/g.ucla.edu/talkinfo/tsd_2) <br> 
-    Speaker: [Jimeng Sun, UIUC Computer Science](https://www.sunlab.org/)
-  - Title: [The Duality of Private Synthetic Data and Reconstruction Attacks](https://sites.google.com/g.ucla.edu/talkinfo/tsd_3) <br>
-    Speaker: [Steven Wu, CMU Computer Science](https://zstevenwu.com/) <br>
-    Slides: [**CLICK HERE**](https://drive.google.com/file/d/1vs6u8z1rgCQSgDZCINxICmW7ZPE8RvgM/view?usp=share_link)
-  - Title: [The Duality of Private Synthetic Data and Reconstruction Attacks](https://sites.google.com/g.ucla.edu/talkinfo/tsd_3) <br>
-    Speaker: [Steven Wu, CMU Computer Science](https://zstevenwu.com/) <br>
-    Slides: [**CLICK HERE**](https://drive.google.com/file/d/1vs6u8z1rgCQSgDZCINxICmW7ZPE8RvgM/view?usp=share_link)
+- 15:00-17:00 Invited Session 2: TBD <br>
+  Session Chair: TBD <br>
+  - Title: TBD <br>
+    Speaker: TBD
+  - Title: TBD <br> 
+    Speaker: TBD
+  - Title: TBD <br>
+    Speaker: TBD <br>
+    Slides: TBD
+  - Title: TBD <br>
+    Speaker: TBD <br>
+    Slides: TBD
 <!--
 
 #### Day 1: April 13, Thursday
