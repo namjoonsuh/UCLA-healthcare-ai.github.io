@@ -1,15 +1,5 @@
 # UCLA Generative AI for Healthcare Workshop
 
-#<div align="center">
-#<img src="docs/assets/img/workshop_flyer.png" width = "70%" height = "70%" alt="fig_1" align="center" />
-#</div>
-#<br>
-
-#<div align="center">
-#<img src="docs/assets/img/Workshop Group Picture.jpg" width = "100%" height = "100%" alt="fig_1" align="center" />
-#</div>
-#<br>
-
 **April 5th or 12th, 2024** <br>
 We are pleased to announce the UCLA synthetic data workshop. This one-day workshop is hosted by the [UCLA Department of Statistics](http://statistics.ucla.edu/) and co-sponsored by [UCLA College Luskin Lecture](https://www.college.ucla.edu/luskinthoughtlecture/about-the-luskin-lecture/). 
 The workshop is held at the [UCLA Luskin Conference Center](https://luskinconferencecenter.ucla.edu/hotels-near-ucla/), Conference Room ? on April 5th or 12th, 2024.
