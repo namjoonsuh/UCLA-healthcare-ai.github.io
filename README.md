@@ -45,17 +45,14 @@ All events will be held at [UCLA Luskin hotel Conference Hotel](https://luskinco
 #### April 5th or 12th, Friday
 - 8-8:50 Register
 - 8:50-9 Opening Remark 
-- 9-9:45 Keynote Talk by [Xiao-Li Meng, Harvard Statistics](https://statistics.fas.harvard.edu/people/xiao-li-meng) <br> 
-         Title: [Data Minding for Synthetic Data: Have We Ever Had Real Data?](https://sites.google.com/g.ucla.edu/talkinfo/kn_1) <br>
-         Chair: [Ying Nian Wu, UCLA Statistics](http://www.stat.ucla.edu/~ywu/) <br>
-         Slides: [**CLICK HERE**](https://drive.google.com/file/d/1oeUaIoUlNPD_4ChXWUEYRIyIR2MnHQPZ/view?usp=sharing)
+- 9-9:45 Keynote Talk by TBD
 - 9:45-10 Poster/Coffee/Tea
 - 10-11:30 Invited Session 1:  Synthetic Data for Social Science <br>
-  Session Chair: [Andrés Felipe Barrientos, FSU Statistics](https://anfebar.github.io/) <br>
-  - Title: [Stylized Facts about Synthetic Data for the Social Sciences – an illustration using data from the U.S. Economic Census](https://sites.google.com/g.ucla.edu/talkinfo/sdss_1) <br>
-    Speaker: [Joerg Drechsler, IAB in Germany](https://doku.iab.de/mitarbeiter/vita_drechsler.pdf) <br>
-    Slides: [**CLICK HERE**](https://drive.google.com/file/d/1VUOqZFgbwnBH_q5i9ADTSf-8RtFVAfu3/view?usp=share_link)
-  - Title: [New Methods and Applications in Synthetic Data for Survey Data](https://sites.google.com/g.ucla.edu/talkinfo/sdss_2) <br>
+  Session Chair: TBD
+  - Title: TBD <br>
+    Speaker: TBD <br>
+    Slides: TBD
+  - Title: TBD <br>
     Speaker: [Joshua Snoke, RAND](https://www.rand.org/about/people/s/snoke_joshua.html)
   - Title: [Synthesizing Tax Data with Tidy-synthesis](https://sites.google.com/g.ucla.edu/talkinfo/sdss_3) <br>
     Speaker: [Aaron Williams, Urban Institute](https://www.urban.org/author/aaron-r-williams) <br>
