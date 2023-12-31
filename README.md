@@ -173,9 +173,10 @@ If you need accommodation, nearby options include the following local hotels.
 
 ### Organizers
 - [Guang Cheng, UCLA Statistics](http://www.stat.ucla.edu/~guangcheng/) (Chair)
-- [Qing Zhou, UCLA Statistics](http://www.stat.ucla.edu/~zhou/)
 - [Namjoon Suh, UCLA Statistics](https://sites.google.com/site/namjoonsuh)
-
+- [Robert Tilman, Optum AI](https://www.linkedin.com/in/robert-tillman-33697b1a/)
+- [Qing Zhou, UCLA Statistics](http://www.stat.ucla.edu/~zhou/)
+  
 ### Contact
 
 For more information contact [Prof. Guang Cheng](guangcheng@ucla.edu).
