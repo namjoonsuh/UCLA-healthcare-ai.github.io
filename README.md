@@ -142,7 +142,7 @@ Session Chair: [Andrés Felipe Barrientos, FSU Statistics](https://anfebar.githu
 -->
 
 ### Poster
-It is strongly encouraged to upload your poster in the registration link below (deadline is April 1st). You need to bring posters to the conference site to setup. The poster exhibit time is from 9:40-3:00 either Thursday or Friday.
+It is strongly encouraged to upload your poster in the registration link below (deadline is April 1st). You need to bring posters to the conference site to setup. The poster exhibit time is from 9:40-15:00 on Friday.
 <!-- The poster will be asked to upload in the above registration. The deadline is April 1st. -->
 
 ### Travel Support
