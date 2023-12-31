@@ -149,9 +149,7 @@ It is strongly encouraged to upload your poster in the registration link below (
 Only students submitting a poster is qualified for applying for travel support and free of registration. 
 
 ### Registration (Deadline **April 1st, 2024**).
-[**CLICK HERE**](https://docs.google.com/forms/d/e/1FAIpQLSewDipcynt5OlyOxwNsLOjdwf2S5qyxWzjABxkEq3dnQyAntw/viewform?usp=pp_url) to register for the April 5th or 12th, 2024 UCLA synthetic data workshop. <br> [**CLICK HERE**](https://commerce.cashnet.com/41015CONF) to pay the registration fee.
-
-**PLEASE NOTE: Submitting the above Google form DOES NOT guarantee a place in the workshop until the registration fee is paid.**
+[**CLICK HERE**](https://docs.google.com/forms/d/e/1FAIpQLSewDipcynt5OlyOxwNsLOjdwf2S5qyxWzjABxkEq3dnQyAntw/viewform?usp=pp_url) to register for the April 5th or 12th, 2024 UCLA synthetic data workshop. <br>
 
 <!-- 
 ### Diversity Travel Awards
