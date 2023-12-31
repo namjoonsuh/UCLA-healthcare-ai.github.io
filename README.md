@@ -1,4 +1,4 @@
-# UCLA Synthetic Data Workshop
+# UCLA Generative AI for Healthcare Workshop
 
 <div align="center">
 <img src="docs/assets/img/workshop_flyer.png" width = "70%" height = "70%" alt="fig_1" align="center" />
