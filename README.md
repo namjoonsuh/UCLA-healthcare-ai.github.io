@@ -125,13 +125,14 @@ Session Chair: [Andrés Felipe Barrientos, FSU Statistics](https://anfebar.githu
 -->
 
 ### Poster
-It is strongly encouraged to upload your poster in the registration link below (deadline is April 1st). You need to bring posters to the conference site to setup. The poster exhibit time is from 9:40-15:00 on Friday.
+It is strongly encouraged to upload your poster in the registration link below (deadline is April 1st). You need to bring posters to the conference site to setup. The poster exhibit time is from 9:40-17:00.
 <!-- The poster will be asked to upload in the above registration. The deadline is April 1st. -->
 
+<!--
 ### Travel Support
-Only students submitting a poster is qualified for applying for travel support and free of registration. 
+Only students submitting a poster is qualified for applying for travel support and free of registration. -->
 
-### Registration (Deadline **April 1st, 2024**).
+### Registration (Deadline **April 1st, 2024**) No Registration Fee.
 [**CLICK HERE**](https://docs.google.com/forms/d/e/1FAIpQLSewDipcynt5OlyOxwNsLOjdwf2S5qyxWzjABxkEq3dnQyAntw/viewform?usp=pp_url) to register for the April 5th or 12th, 2024 UCLA synthetic data workshop. <br>
 
 <!-- 
