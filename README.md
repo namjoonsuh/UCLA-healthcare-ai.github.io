@@ -2,7 +2,7 @@
 
 **April 19th, 2024** <br>
 We are pleased to announce the UCLA synthetic data workshop. This one-day workshop is hosted by the [UCLA Department of Statistics](http://statistics.ucla.edu/) and sponsored by [UCLA College Luskin Lecture](https://www.college.ucla.edu/luskinthoughtlecture/about-the-luskin-lecture/). 
-The workshop will be held at the [UCLA Luskin Conference Center](https://luskinconferencecenter.ucla.edu/hotels-near-ucla/), Conference Room ? on April 5th or 12th, 2024.
+The workshop will be held at the [UCLA Luskin Conference Center](https://luskinconferencecenter.ucla.edu/hotels-near-ucla/), Conference Room TBD in Luskin Hotel.
 
 ### About
 Generative AI holds profound significance for healthcare by revolutionizing various aspects of medical research, diagnostics, and patient care. Its capacity to generate realistic and diverse data allows for the creation of synthetic datasets that augment the limited availability of real-world patient information, facilitating the development and validation of robust machine learning models. In medical imaging, generative models contribute to generating high-fidelity images, aiding in the training of diagnostic algorithms and enhancing the accuracy of disease detection. Moreover, the ability to simulate patient scenarios and generate synthetic electronic health records enables researchers to explore and refine healthcare strategies without compromising individual privacy. Generative AI thus emerges as a transformative tool, empowering healthcare professionals and researchers to address challenges, enhance predictive capabilities, and ultimately advance the quality of care in a rapidly evolving healthcare landscape.
