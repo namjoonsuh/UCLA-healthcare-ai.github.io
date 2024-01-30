@@ -35,33 +35,33 @@ All events will be held at [UCLA Luskin hotel Conference Hotel](https://luskinco
 - 10:15-12:15 Invited Session 1:  TBD <br>
   Session Chair: TBD
   - Title: TBD <br>
-    Speaker: David Sontag (MIT) <br>
+    Speaker: [David Sontag (MIT)](https://people.csail.mit.edu/dsontag/) <br>
     Slides: TBD
   - Title: TBD <br>
-    Speaker: Robert Tellerman (United Health)
+    Speaker: [Robert Tellerman (United Health)](https://www.linkedin.com/in/robert-tillman-33697b1a/)
     Slides: TBD
   - Title: TBD <br>
-    Speaker: Quanquan gu (UCLA) <br>
+    Speaker: [Quanquan gu (UCLA)](https://web.cs.ucla.edu/~qgu/) <br>
     Slides: TBD
   - Title: TBD <br>
-    Speaker: Aptekar Jacob (Medidata) <br>
+    Speaker: [Aptekar Jacob (Medidata)](https://www.linkedin.com/in/jacob-aptekar-b7030662/) <br>
     Slides: TBD
 - 12:15-13:30 Lunch
-- 13:30-14:15 Keynote Talk by Ramesh Durvasula (Eli Lilly) <br> 
+- 13:30-14:15 Keynote Talk by [Ramesh Durvasula (Eli Lilly)](https://www.linkedin.com/in/rameshdurvasula/) <br> 
               Title: TBD <br>
               Chair: TBD
 - 14:15-14:45 Poster/Coffee/Tea
 - 14:45-16:45 Invited Session 2: TBD <br>
   Session Chair: TBD <br>
   - Title: TBD <br>
-    Speaker: Haoda Fu (Eli Lilly)
+    Speaker: [Haoda Fu (Eli Lilly)](https://www.linkedin.com/in/haoda-fu-17a5256/)
   - Title: TBD <br> 
-    Speaker: Qi Liu (FDA)
+    Speaker: [Qi Liu (FDA)](https://www.linkedin.com/in/qi-liu-9890b4a1/)
   - Title: TBD <br>
-    Speaker: Xiaofeng Lin (UCLA) <br>
+    Speaker: [Xiaofeng Lin (UCLA)](https://scholar.google.com/citations?user=Em2gV5UAAAAJ&hl=ko&oi=ao) <br>
     Slides: TBD
   - Title: TBD <br>
-    Speaker: Sheng Wang (University of Washington) <br>
+    Speaker: [Sheng Wang (University of Washington)](https://homes.cs.washington.edu/~swang/) <br>
     Slides: TBD
 - 14:45-15:00 Closing workshop
 
