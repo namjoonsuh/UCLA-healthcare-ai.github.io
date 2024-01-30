@@ -30,37 +30,41 @@ All events will be held at [UCLA Luskin hotel Conference Hotel](https://luskinco
 #### April 19th, Friday
 - 8-8:50 Register
 - 8:50-9 Opening Remark 
-- 9-9:45 Keynote Talk by TBD
-- 9:45-10:15 Coffee/Tea
-- 10:15-11:45 Invited Session 1:  TBD <br>
+- 9-9:45 Keynote Talk by Eran Halperin (UCLA/United Health)
+- 9:45-10:15 Poster/Coffee/Tea
+- 10:15-12:15 Invited Session 1:  TBD <br>
   Session Chair: TBD
   - Title: TBD <br>
-    Speaker: TBD <br>
+    Speaker: David Sontag (MIT) <br>
     Slides: TBD
   - Title: TBD <br>
-    Speaker: TBD
+    Speaker: Robert Tellerman (United Health)
     Slides: TBD
   - Title: TBD <br>
-    Speaker: TBD <br>
+    Speaker: Quanquan gu (UCLA) <br>
     Slides: TBD
-- 11:45-12:30 Lunch
-- 12:30-13:30 Poster/Coffee/Tea
-- 13:30-14:15 Keynote Talk by TBD <br> 
+  - Title: TBD <br>
+    Speaker: Aptekar Jacob (Medidata) <br>
+    Slides: TBD
+- 12:15-13:30 Lunch
+- 13:30-14:15 Keynote Talk by Ramesh Durvasula (Eli Lilly) <br> 
               Title: TBD <br>
               Chair: TBD
-- 14:15-15:00 Poster/Coffee/Tea
-- 15:00-17:00 Invited Session 2: TBD <br>
+- 14:15-14:45 Poster/Coffee/Tea
+- 14:45-16:45 Invited Session 2: TBD <br>
   Session Chair: TBD <br>
   - Title: TBD <br>
-    Speaker: TBD
+    Speaker: Haoda Fu (Eli Lilly)
   - Title: TBD <br> 
-    Speaker: TBD
+    Speaker: Qi Liu (FDA)
   - Title: TBD <br>
-    Speaker: TBD <br>
+    Speaker: Xiaofeng Lin (UCLA) <br>
     Slides: TBD
   - Title: TBD <br>
-    Speaker: TBD <br>
+    Speaker: Sheng Wang (University of Washington) <br>
     Slides: TBD
+- 14:45-15:00 Closing workshop
+
 <!--
 
 #### Day 1: April 13, Thursday
