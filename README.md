@@ -30,7 +30,7 @@ All events will be held at [UCLA Luskin hotel Conference Hotel](https://luskinco
 #### April 19th, Friday
 - 8-8:50 Register
 - 8:50-9 Opening Remark 
-- 9-9:45 Keynote Talk by Eran Halperin (UCLA/United Health)
+- 9-9:45 Keynote Talk by [Eran Halperin (UCLA/United Health)](https://bioscience.ucla.edu/people/eran-halperin/)
 - 9:45-10:15 Poster/Coffee/Tea
 - 10:15-12:15 Invited Session 1:  TBD <br>
   Session Chair: TBD
