@@ -63,7 +63,7 @@ All events will be held at [UCLA Luskin hotel Conference Hotel](https://luskinco
   - Title: TBD <br>
     Speaker: [Sheng Wang (University of Washington)](https://homes.cs.washington.edu/~swang/) <br>
     Slides: TBD
-- 14:45-15:00 Closing workshop
+- 16:45-17:00 Closing workshop
 
 <!--
 
