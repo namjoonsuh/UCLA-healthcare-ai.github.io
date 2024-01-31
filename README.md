@@ -41,7 +41,7 @@ All events will be held at [UCLA Luskin hotel Conference Hotel](https://luskinco
     Speaker: [Robert Tellerman (United Health)](https://www.linkedin.com/in/robert-tillman-33697b1a/)
     Slides: TBD
   - Title: TBD <br>
-    Speaker: [Quanquan gu (UCLA)](https://web.cs.ucla.edu/~qgu/) <br>
+    Speaker: [Quanquan Gu (UCLA)](https://web.cs.ucla.edu/~qgu/) <br>
     Slides: TBD
   - Title: TBD <br>
     Speaker: [Aptekar Jacob (Medidata)](https://www.linkedin.com/in/jacob-aptekar-b7030662/) <br>
