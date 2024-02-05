@@ -38,7 +38,7 @@ All events will be held at [UCLA Luskin hotel Conference Hotel](https://luskinco
     Speaker: [David Sontag (MIT)](https://people.csail.mit.edu/dsontag/) <br>
     Slides: TBD
   - Title: TBD <br>
-    Speaker: [Robert Tellerman (United Health)](https://www.linkedin.com/in/robert-tillman-33697b1a/)
+    Speaker: TBD
     Slides: TBD
   - Title: TBD <br>
     Speaker: [Quanquan Gu (UCLA)](https://web.cs.ucla.edu/~qgu/) <br>
