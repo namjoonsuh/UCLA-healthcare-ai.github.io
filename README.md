@@ -35,10 +35,10 @@ All events will be held at [UCLA Luskin hotel Conference Hotel](https://luskinco
 - 10:15-12:15 Invited Session 1:  TBD <br>
   Session Chair: TBD
   - Title: TBD <br>
-    Speaker: [David Sontag (MIT)](https://people.csail.mit.edu/dsontag/) <br>
+    Speaker: TBD <br>
     Slides: TBD
   - Title: TBD <br>
-    Speaker: TBD
+    Speaker: TBD <br>
     Slides: TBD
   - Title: TBD <br>
     Speaker: [Quanquan Gu (UCLA)](https://web.cs.ucla.edu/~qgu/) <br>
