@@ -41,7 +41,7 @@ All events will be held at [UCLA Luskin hotel Conference Hotel](https://luskinco
     Speaker: TBD <br>
     Slides: TBD
   - Title: TBD <br>
-    Speaker: [Quanquan Gu (UCLA)](https://web.cs.ucla.edu/~qgu/) <br>
+    Speaker: TBD <br>
     Slides: TBD
   - Title: TBD <br>
     Speaker: [Aptekar Jacob (Medidata)](https://www.linkedin.com/in/jacob-aptekar-b7030662/) <br>
