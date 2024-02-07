@@ -171,15 +171,4 @@ If you need accommodation, nearby options include the following local hotels.
 
 For more information contact [Prof. Guang Cheng](guangcheng@ucla.edu).
 
-<!-- ### Past Events
-- [2020 Inaugural Lange Symposium](https://langesymposium.github.io/2020/)
-- [2022 July Lange Symposium Workshop](https://langesymposium.github.io/2022-July-Workshop/)
-- [2022 October Lange Symposium](https://langesymposium.github.io/2022-October-Symposium/) -->
-
-<div style=" width:900px">
-<div style=" float:left; width:250px;"><img src="docs/assets/img/niss_idre_logo_nbg.png" width="100%" height="100%"/></div>
-<div style=" float:left; width:100px;"><img src="docs/assets/img/nsf_logo_nbg.png" width="67%" height="67%"/></div>
-<div style=" float:left; width:100px;"><img src="docs/assets/img/asac_logo_nbg.png" width="60%" height="60%"/></div>
-<div style=" float:left; width:200px;"><img src="docs/assets/img/amazon_logo_nbg.png" width="60%" height="60%"/></div>
-</div>
 <br>
