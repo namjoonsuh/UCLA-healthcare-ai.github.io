@@ -168,7 +168,7 @@ If you need accommodation, nearby options include the following local hotels.
 - [Qing Zhou, UCLA Statistics](http://www.stat.ucla.edu/~zhou/)
   
 ### Contact
+For more information contact guangcheng@ucla.edu. <br>
 
-For more information contact(guangcheng@ucla.edu). <br>
-[Link for the workshop in previous year](https://ucla-synthetic-data.github.io/)
-<br>
+### Workshop in 2023
+[UCLA Synthetic Data Workshop](https://ucla-synthetic-data.github.io/) <br>
