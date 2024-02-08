@@ -25,7 +25,8 @@ Therefore, this workshop is to form a community of synthetic data researchers (f
 -->
 
 ### Program
-All events will be held at [UCLA Luskin hotel Conference Hotel](https://luskinconferencecenter.ucla.edu/hotels-near-ucla/), Conference Room ?.
+All events will be held at [UCLA Luskin hotel Conference Hotel](https://luskinconferencecenter.ucla.edu/hotels-near-ucla/), Laureate Room (1st floor).
+Lunch will be provided at Legacy Room (2nd floor).
 
 #### April 19th, Friday
 - 8-8:50 Register
