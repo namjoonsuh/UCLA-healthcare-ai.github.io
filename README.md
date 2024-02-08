@@ -169,6 +169,6 @@ If you need accommodation, nearby options include the following local hotels.
   
 ### Contact
 
-For more information contact [Prof. Guang Cheng](guangcheng@ucla.edu).
-
+For more information contact(guangcheng@ucla.edu).
+[Link for the workshop in previous year](https://ucla-synthetic-data.github.io/)
 <br>
