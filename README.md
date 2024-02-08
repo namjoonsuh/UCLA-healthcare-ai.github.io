@@ -35,16 +35,16 @@ All events will be held at [UCLA Luskin hotel Conference Hotel](https://luskinco
 - 10:15-12:15 Invited Session 1:  TBD <br>
   Session Chair: TBD
   - Title: TBD <br>
-    Speaker: TBD <br>
-    Slides: TBD
-  - Title: TBD <br>
-    Speaker: TBD <br>
-    Slides: TBD
-  - Title: TBD <br>
-    Speaker: TBD <br>
-    Slides: TBD
-  - Title: TBD <br>
     Speaker: [Aptekar Jacob (Medidata)](https://www.linkedin.com/in/jacob-aptekar-b7030662/) <br>
+    Slides: TBD
+  - Title: TBD <br>
+    Speaker: [Quanquan Gu (UCLA)](https://web.cs.ucla.edu/~qgu/) <br>
+    Slides: TBD
+  - Title: TBD <br>
+    Speaker: TBD <br>
+    Slides: TBD
+  - Title: TBD <br>
+    Speaker: TBD <br>
     Slides: TBD
 - 12:15-13:30 Lunch
 - 13:30-14:15 Keynote Talk by [Ramesh Durvasula (Eli Lilly)](https://www.linkedin.com/in/rameshdurvasula/) <br> 
