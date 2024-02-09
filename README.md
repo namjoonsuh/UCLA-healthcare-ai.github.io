@@ -172,4 +172,4 @@ If you need accommodation, nearby options include the following local hotels.
 For more information contact guangcheng@ucla.edu. <br>
 
 ### Workshop in 2023
-[UCLA Synthetic Data Workshop](https://ucla-synthetic-data.github.io/) <br>
+In 2023, we held a workshop on synthetic data. For those who are interested, link is [UCLA Synthetic Data Workshop](https://ucla-synthetic-data.github.io/)! <br>
