@@ -173,4 +173,4 @@ For more information contact guangcheng@ucla.edu. <br>
 
 ### Workshop in 2023
 In 2023, we held a workshop on synthetic data generation. 
-For those who are interested, link is [UCLA Synthetic Data Workshop](https://ucla-synthetic-data.github.io/)! <br>
+For those who are interested, link is [HERE](https://ucla-synthetic-data.github.io/)! <br>
