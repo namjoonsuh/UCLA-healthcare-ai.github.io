@@ -1,6 +1,6 @@
 # Generative AI for Healthcare Workshop
 
-<br>
+###
 We are pleased to announce the Generative AI for Healthcare Workshop at UCLA on April 19th, 2024. This one-day workshop is hosted by the [UCLA Department of Statistics](http://statistics.ucla.edu/) and sponsored by [UCLA College Luskin Lecture](https://www.college.ucla.edu/luskinthoughtlecture/about-the-luskin-lecture/). 
 The workshop will be held at the [UCLA Luskin hotel Conference Hotel](https://luskinconferencecenter.ucla.edu/hotels-near-ucla/), Legacy Room (1st floor) in Luskin Hotel.
 
