@@ -35,7 +35,7 @@ Lunch will be provided at Legacy Room (2nd floor).
 - 10:15-12:15 Invited Session 1:  TBD <br>
   Session Chair: TBD
   - Title: TBD <br>
-    Speaker: [Aptekar Jacob (Medidata)](https://www.linkedin.com/in/jacob-aptekar-b7030662/) <br>
+    Speaker: [Jacob Aptekar (Medidata)](https://www.linkedin.com/in/jacob-aptekar-b7030662/) <br>
     Slides: TBD
   - Title: TBD <br>
     Speaker: [Quanquan Gu (UCLA)](https://web.cs.ucla.edu/~qgu/) <br>
